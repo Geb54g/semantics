@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: gray;
+}
+.bike{
+    display:flex ;
+}
+.pi{
+    padding-left: 2rem;
+    line-height: 3rem;
+}
+img{
+    width: 50%;
+}
+article{
+    border: solidb blue;
+    width: 60%;
+    height: 90%;
+    padding: 1rem;
+    margin: 1rem;
+    background-color: blue;
+    color: white;
+}
+aside{
+    width: 30%;
+    border: solid red;
+    background-color: red;
+    color: white;
+}
+h4{
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+}
+.contact-infor{
+    display: flex;
+    justify-content: center;
+    font-size: 1.5rem;
+    color: blue;
+    font-weight: 800;
+}
+form{
+    text-align: center;
+    padding-top: 1rem;
+}
+input{
+    width: 20%;
+    height: 50%;
+}
+.submain{
+    display: flex;
+    justify-content: center;
+}
